@@ -6,3 +6,5 @@ puts a
 
 b = 'こんにちは'
 puts b
+
+puts "Hello Git"
